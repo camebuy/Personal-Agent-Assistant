@@ -1,0 +1,2 @@
+# Core dependencies have one source of truth in pyproject.toml.
+-e .
